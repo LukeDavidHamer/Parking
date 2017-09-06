@@ -33,21 +33,40 @@
 		<table>
 			<tr>
 				<td>Park Number</td>
-				<td><input type="text" name="uname"></td>
+				<td><input type="text" name="pnumber"></td>
 			</tr>
-			<tr>
-				<td>Password</td>
-				<td><input type="password" name="password"></td>
-			</tr>
+
 			<tr>
 				<td></td>
-				<td><input type="submit" value="Login"></td>
+				<td><input type="submit" value="Check"></td>
+			</tr>
+						<tr>
+				<td>Remaining</td>
+				<td><output type="text" name="remaining"></td>
 			</tr>
 		</table>
 	</form>
 
 
+<p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
 
 </div>
 
