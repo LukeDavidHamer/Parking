@@ -17,9 +17,8 @@
 <div id="menu">
 <ul>
 <li><a href="#">Home</a></li>
-<li><a href="#">Check or Add Time</a></li>
-<li><a href="#">Check for Ticket</a></li>
-<li><a href="#">Add Parking Credits</a></li>
+<li><a href="#">Add Time</a></li>
+<li><a href="#">Log Out</a></li>
 </ul>
 </div>
 
@@ -41,9 +40,12 @@
 				<td><input type="submit" value="Check"></td>
 			</tr>
 						<tr>
-				<td>Remaining</td>
+				<td>Time remaining</td>
 				<td><output type="text" name="remaining"></td>
+				<td>**********************</td>
+				<td><output type="text" name="timeLeft"></td>
 			</tr>
+			
 		</table>
 	</form>
 
